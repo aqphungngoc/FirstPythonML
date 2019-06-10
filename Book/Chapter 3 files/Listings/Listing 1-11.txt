@@ -1,2 +1,0 @@
-data_log_moving_avg_diff.dropna(inplace=True)
-evaluate_stationarity(data_log_moving_avg_diff)

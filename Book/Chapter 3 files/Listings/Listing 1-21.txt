@@ -1,2 +1,0 @@
-predictions_ARIMA_diff = pd.Series(results_ARIMA_111.fittedvalues, copy=True)
-print predictions_ARIMA_diff.head()

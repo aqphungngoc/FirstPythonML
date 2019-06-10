@@ -1,1 +1,0 @@
-sm.stats.durbin_watson(data_log_diff)

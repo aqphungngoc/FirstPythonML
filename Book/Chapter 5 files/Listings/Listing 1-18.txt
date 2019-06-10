@@ -1,2 +1,0 @@
-data.boxplot(column=['Age'], return_type='axes', by='Status')
-plt.show()

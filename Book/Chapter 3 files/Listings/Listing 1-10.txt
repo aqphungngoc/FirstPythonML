@@ -1,2 +1,0 @@
-data_log_moving_avg_diff = data_log - moving_avg
-data_log_moving_avg_diff.head(15)

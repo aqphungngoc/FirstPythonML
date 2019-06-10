@@ -1,3 +1,0 @@
-expwighted_avg = pd.ewma(data_log, halflife=15)
-data_log_ewma_diff = data_log - expwighted_avg
-evaluate_stationarity(data_log_ewma_diff)

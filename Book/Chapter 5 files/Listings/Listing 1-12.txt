@@ -1,2 +1,0 @@
-for field in ['Gender', 'Status']:
-    data[field] = pd.Categorical.from_array(data[field]).codes

@@ -1,2 +1,0 @@
-fh = fetch_historical_yahoo('^GSPC', (2016, 1, 1), (2016, 12, 31))
-yahoo_data = parse_yahoo_historical_ochl(fh, asobject=True, adjusted=False)

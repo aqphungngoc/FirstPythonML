@@ -1,2 +1,0 @@
-data.boxplot(column=['AwaitingTime'], return_type='axes', by='Status')
-plt.show()

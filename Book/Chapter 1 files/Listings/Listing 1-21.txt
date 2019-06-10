@@ -1,1 +1,0 @@
-Ratio of outliers = ( Number of outliers values / Length of all values ) * 100

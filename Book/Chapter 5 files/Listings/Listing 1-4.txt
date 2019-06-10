@@ -1,2 +1,0 @@
-for column in list(data.columns):
-    print "{0:25} {1}".format(column, data[column].nunique())
