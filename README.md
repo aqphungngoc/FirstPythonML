@@ -1,2 +1,0 @@
-# FirstPythonML
-learning machine learning
