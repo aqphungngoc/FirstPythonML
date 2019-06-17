@@ -1,1 +1,6 @@
-Curpage page 6
+
+type of variable page 9
+
+
+
+Curpage page 17
